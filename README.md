@@ -298,6 +298,5 @@ amazon-beauty-recommender-system/
 - Hiba Amanulla
 - Effat University
 - Computer Science Department
-- Ghala Alghamdi
 - Course: CS3081 – Artifical Intelligence
 - Instructor: Dr. Passent Elkafrawy
